@@ -1,17 +1,17 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "name": "No disintegrations",
   "theme": {
     "images": {},
     "properties": {},
     "colors": {
       "toolbar": "rgb(18, 58, 49)",
-      "toolbar_text": "rgb(161, 154, 161)",
+      "toolbar_text": "rgb(243, 199, 42)",
       "frame": "rgb(94, 110, 99)",
-      "tab_background_text": "rgb(243, 199, 42)",
+      "tab_background_text": "rgb(161, 154, 161)",
       "toolbar_field": "rgb(17, 17, 17)",
-      "toolbar_field_text": "rgb(161, 154, 161)",
+      "toolbar_field_text": "rgb(243, 199, 42)",
       "tab_line": "rgb(113, 38, 45)",
       "popup": "rgb(94, 110, 99)",
       "popup_text": "rgb(0, 0, 0)",
